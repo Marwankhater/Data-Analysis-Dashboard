@@ -1,2 +1,4 @@
-# Data-Analysis-Dashboard
-This dashboard provides an insightful overview of the car sales data, focusing on key performance indicators such as total profit, units sold, revenue by brand and model, commission rates, customer engagement, and sales trends over the years.
+# Car-Sales-Data-Analysis (Dashboard creartion using Excel) 
+##Project Objective :
+Enhance data quality and accurately analyze car sales performance to support effective strategic decision-making.
+Provide an interactive dashboard displaying key performance indicators to improve monitoring and boost sales outcomes.
