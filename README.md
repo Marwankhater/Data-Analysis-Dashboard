@@ -40,12 +40,16 @@ Provide an interactive dashboard displaying key performance indicators to improv
 ## Dashboard
 <img width="1860" height="808" alt="Dashboard of car sales" src="https://github.com/user-attachments/assets/bee4da79-edae-4bfc-bfe2-905cd17626ab" />
 
-##pressive Advantages:
+## pressive Advantages:
 
 -Interactive Dashboards: Users can interact with certain charts to zoom and explore sales trends and data more deeply.
+
 -Comprehensive Metrics: Covers both financial (profit, commission) and operational (units sold, salespersons performance) KPIs.
+
 -Trend Analysis: The year-over-year comparison helps in spotting business growth opportunities or areas needing attention.
+
 -Clean and Intuitive Design: Well-structured layout enhances user experience, facilitating quick data-driven decision-making.
+
 -Real-time Updating Capability: Designed to integrate smoothly with live data feeds for up-to-date insights.
 
 
