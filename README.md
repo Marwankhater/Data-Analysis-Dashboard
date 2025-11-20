@@ -21,3 +21,14 @@ Provide an interactive dashboard displaying key performance indicators to improv
 -Who are the top 10 salespersons by sales volume?
 -What are the total sales values for different car models and brands?
 
+## Process 
+
+-Collected and cleaned the raw car sales data, correcting numerical and formatting issues.
+-Analyzed the data to calculate key metrics like profit, units sold, and commission rates.
+-Designed and built visual charts to represent sales trends, top customers, and salespersons.
+-Organized these visuals into a clear, interactive dashboard for easy performance monitoring and decision-making.
+
+## Dashboard
+<img width="1860" height="808" alt="Dashboard of car sales" src="https://github.com/user-attachments/assets/bee4da79-edae-4bfc-bfe2-905cd17626ab" />
+
+
