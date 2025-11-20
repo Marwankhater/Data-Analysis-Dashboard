@@ -9,7 +9,7 @@ Provide an interactive dashboard displaying key performance indicators to improv
 
 ## Questions (KPIs) 
 
-صhat is the total profit?
+what is the total profit?
 -What is the total number of units sold?
 
 -Which is the top revenue-generating brand?
