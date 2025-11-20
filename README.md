@@ -1,5 +1,5 @@
 # Car-Sales-Data-Analysis (Dashboard creartion using Excel) 
-##Project Objective :
+## Project Objective :
 Enhance data quality and accurately analyze car sales performance to support effective strategic decision-making.
 Provide an interactive dashboard displaying key performance indicators to improve monitoring and boost sales outcomes.
 
@@ -9,7 +9,7 @@ Provide an interactive dashboard displaying key performance indicators to improv
 
 ## Questions (KPIs) 
 
-what is the total profit?
+-what is the total profit?
 -What is the total number of units sold?
 
 -Which is the top revenue-generating brand?
